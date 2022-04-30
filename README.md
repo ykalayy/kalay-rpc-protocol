@@ -1,4 +1,4 @@
-Kalay custom rpc protocol server
+Kalay custom rpc protocol
 ==============================================================================
 
 Custom Rpc server/client project for fun
