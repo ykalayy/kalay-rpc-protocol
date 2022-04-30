@@ -41,5 +41,4 @@ rpcClient.call(new KalayRpcCommand(Type.REQUEST, ProtoCommon.VERSION, "exampleRe
         System.out.println("This is the response from the server.\nMessage: " + response);
     }
 });
-rpcServer.startService(5000);
 ```
